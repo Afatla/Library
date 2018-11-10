@@ -1,0 +1,17 @@
+Foreign book;"Krolowa sniegu";Hans Christian Andersen;21.12.2011;2349839;Cecylia Niewiadomska
+Polish book;"Lalka";Boleslaw Prus;21.12.2015;3384893
+Polish book;"Krzyzacy";Henryk Sienkiewicz;12.03.2001;78669655
+Polish book;"Pan Tadeusz";Adam Mickiewicz;13.08.1998;464644
+Polish book;"Medaliony";Zofia Nalkowska;12.09.1999;3243432
+Polish book;"Zemsta";Aleksander Fredro;23.09.2001;243546
+Polish book;"Pan Wolodyjowski;Henryk Sienkiewicz;06.10.2005;446366
+Foreign book;"Miasto Sniacych Ksiazek";;Walter Moers;09.05.2006;353556;Katarzyna Bena
+Ilustrated book;"Kot Alchemika";Walter Moers;19.04.2008;893249829;Walter Moers
+Foreign book;"Zbrodnia i kara";Fiodor Dostojewski;09.12.1996;2894284;Czeslaw Jastrzebiec-Kozlowski
+Foreign book;"Maly Ksiaze";Antoine de Saint Exupery;09.12.1997;82892;Marta Malicka
+Ilustrated book;"Spider man;Stan Lee;02.10.1998;482498;Steve Ditko
+Polish book;"W pustyni i w puszczy";Henryk Sienkiewicz;09.05.2001;8294824
+Ilustrated book;"Koziolek Matolek";Kornel Makuszynski;09.04.2005;93420824;Kornel Makuszynski
+Ilustrated book;"Batman";Snyder Scott;08.12.1997;823828;Ed McGuinness
+Ilustrated book;"Tytus, Romek i A'Tomek";Chmielewski Henryk Jerzy;25.04.2007;34429420;Chmielewski Henryk Jerzy
+Foreign Book;"Romeo i Julia";William Szekspir;12.09.2006;839292;Jozef Paszkowski

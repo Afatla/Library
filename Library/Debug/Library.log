@@ -1,0 +1,16 @@
+﻿  SearchingWindow.cpp
+e:\aga studia\semestr 2\jpwp\zadania domowe\library\library\BookWindow.h(195): warning C4677: 'set_textbox_text': signature of non-private member contains assembly private type 'Book'
+  e:\aga studia\semestr 2\jpwp\zadania domowe\library\library\Book.h(10): note: see declaration of 'Book'
+e:\aga studia\semestr 2\jpwp\zadania domowe\library\library\SearchingWindow.h(25): warning C4677: 'results': signature of non-private member contains assembly private type 'Book'
+  e:\aga studia\semestr 2\jpwp\zadania domowe\library\library\Book.h(10): note: see declaration of 'Book'
+e:\aga studia\semestr 2\jpwp\zadania domowe\library\library\ForeignBookWindow.h(108): warning C4677: 'set_txt_translator': signature of non-private member contains assembly private type 'ForeignBook'
+  e:\aga studia\semestr 2\jpwp\zadania domowe\library\library\ForeignBook.h(3): note: see declaration of 'ForeignBook'
+e:\aga studia\semestr 2\jpwp\zadania domowe\library\library\MagazineWindow.h(106): warning C4677: 'set_txt_subject': signature of non-private member contains assembly private type 'Magazine'
+  e:\aga studia\semestr 2\jpwp\zadania domowe\library\library\Magazine.h(3): note: see declaration of 'Magazine'
+e:\aga studia\semestr 2\jpwp\zadania domowe\library\library\IlustratedBookWindow.h(105): warning C4677: 'set_txt_ilustrator': signature of non-private member contains assembly private type 'IlustratedBook'
+  e:\aga studia\semestr 2\jpwp\zadania domowe\library\library\IlustratedBook.h(3): note: see declaration of 'IlustratedBook'
+SearchingWindow.cpp(10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Book.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  Library.vcxproj -> E:\AGA studia\Semestr 2\JPWP\zadania domowe\Library\Debug\Library.exe
+  Library.vcxproj -> E:\AGA studia\Semestr 2\JPWP\zadania domowe\Library\Debug\Library.pdb (Partial PDB)
